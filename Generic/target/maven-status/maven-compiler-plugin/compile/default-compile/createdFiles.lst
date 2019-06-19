@@ -1,0 +1,5 @@
+base/CommonAPI.class
+reporting/ExtentManager.class
+base/MobileApi.class
+reporting/ExtentTestManager.class
+reporting/TestLogger.class
